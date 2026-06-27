@@ -1,0 +1,2 @@
+CMakeFiles/StudentAssociationManagementSystem.dir/StudentAssociationManagementSystem_autogen/EWIEGA46WW/qrc_resource.cpp.obj: \
+ D:\StudentAssociationManagementSystem\build\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\StudentAssociationManagementSystem_autogen\EWIEGA46WW\qrc_resource.cpp

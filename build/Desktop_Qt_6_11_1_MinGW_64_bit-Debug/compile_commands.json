@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\StudentAssociationManagementSystem_autogen\\mocs_compilation.cpp.obj -c D:\\StudentAssociationManagementSystem\\build\\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\\StudentAssociationManagementSystem_autogen\\mocs_compilation.cpp",
+  "file": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/StudentAssociationManagementSystem_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/StudentAssociationManagementSystem_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\main.cpp.obj -c D:\\StudentAssociationManagementSystem\\main.cpp",
+  "file": "D:/StudentAssociationManagementSystem/main.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\mainwindow.cpp.obj -c D:\\StudentAssociationManagementSystem\\mainwindow.cpp",
+  "file": "D:/StudentAssociationManagementSystem/mainwindow.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\FileManager.cpp.obj -c D:\\StudentAssociationManagementSystem\\FileManager.cpp",
+  "file": "D:/StudentAssociationManagementSystem/FileManager.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/FileManager.cpp.obj"
+},
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\Member.cpp.obj -c D:\\StudentAssociationManagementSystem\\Member.cpp",
+  "file": "D:/StudentAssociationManagementSystem/Member.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/Member.cpp.obj"
+},
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\Association.cpp.obj -c D:\\StudentAssociationManagementSystem\\Association.cpp",
+  "file": "D:/StudentAssociationManagementSystem/Association.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/Association.cpp.obj"
+},
+{
+  "directory": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_QML_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/StudentAssociationManagementSystem.dir/includes_CXX.rsp -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\StudentAssociationManagementSystem.dir\\StudentAssociationManagementSystem_autogen\\EWIEGA46WW\\qrc_resource.cpp.obj -c D:\\StudentAssociationManagementSystem\\build\\Desktop_Qt_6_11_1_MinGW_64_bit-Debug\\StudentAssociationManagementSystem_autogen\\EWIEGA46WW\\qrc_resource.cpp",
+  "file": "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/StudentAssociationManagementSystem_autogen/EWIEGA46WW/qrc_resource.cpp",
+  "output": "CMakeFiles/StudentAssociationManagementSystem.dir/StudentAssociationManagementSystem_autogen/EWIEGA46WW/qrc_resource.cpp.obj"
+}
+]

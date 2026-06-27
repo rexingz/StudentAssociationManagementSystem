@@ -1,0 +1,9 @@
+D:/StudentAssociationManagementSystem/build/CMakeFiles/StudentAssociationManagementSystem.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/edit_cache.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/rebuild_cache.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/list_install_components.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/install.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/install/local.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/install/strip.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/StudentAssociationManagementSystem_autogen_timestamp_deps.dir
+D:/StudentAssociationManagementSystem/build/CMakeFiles/StudentAssociationManagementSystem_autogen.dir

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>2560</width>
+    <height>1600</height>
+   </rect>
+  </property>
+  <property name="acceptDrops">
+   <bool>true</bool>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QMainWindow {
+    background-image: url(:/pic/01.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}</string>
+  </property>
+  <property name="windowFilePath">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="minimumSize">
+    <size>
+     <width>1280</width>
+     <height>720</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QMainWindow {
+    background-image: url(:/pic/01.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}</string>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QStackedWidget" name="QstackedWidget">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="currentIndex">
+       <number>6</number>
+      </property>
+      <widget class="QWidget" name="page">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>1280</width>
+         <height>720</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QWidget { 
+background-size: cover;
+}</string>
+       </property>
+       <widget class="QLabel" name="label">
+        <property name="geometry">
+         <rect>
+          <x>380</x>
+          <y>230</y>
+          <width>461</width>
+          <height>181</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font-family:&quot;Microsoft YaHei&quot;;
+color:black</string>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:36pt;&quot;&gt;学生社团管理系统&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="pushButton">
+        <property name="geometry">
+         <rect>
+          <x>870</x>
+          <y>580</y>
+          <width>78</width>
+          <height>33</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">QPushButton {
+    font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 14px;
+    color: #222;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 6px 24px;
+}
+
+QPushButton:hover {
+    background-color: #f5f5f5;
+}
+
+QPushButton:pressed {
+    background-color: #e8e8e8;
+}</string>
+        </property>
+        <property name="text">
+         <string>登录</string>
+        </property>
+       </widget>
+       <widget class="QWidget" name="layoutWidget">
+        <property name="geometry">
+         <rect>
+          <x>866</x>
+          <y>494</y>
+          <width>337</width>
+          <height>72</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout">
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout">
+           <item>
+            <widget class="QLabel" name="label_2">
+             <property name="styleSheet">
+              <string notr="true">color:black</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;账号:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="label_3">
+             <property name="styleSheet">
+              <string notr="true">color:black</string>
+             </property>
+             <property name="text">
+              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt;&quot;&gt;密码:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_2">
+           <item>
+            <widget class="QLineEdit" name="lineEdit_2">
+             <property name="styleSheet">
+              <string notr="true">QLineEdit {
+    background-color: white;
+    color: #222;
+    font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 14px;
+
+    border: 1px solid #ddd;
+    border-radius: 6px;
+
+    padding: 2px 12px;
+    min-height: 26px;
+    max-height: 28px;
+
+    min-width: 260px;
+}</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="lineEdit_3">
+             <property name="styleSheet">
+              <string notr="true">QLineEdit {
+    background-color: white;
+    color: #222;
+    font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 14px;
+
+    border: 1px solid #ddd;
+    border-radius: 6px;
+
+    padding: 2px 12px;
+    min-height: 26px;
+    max-height: 28px;
+
+    min-width: 260px;
+}</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="page_2">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>1280</width>
+         <height>720</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QWidget {
+    background-color: rgba(255, 255, 255, 204);
+}</string>
+       </property>
+      </widget>
+      <widget class="QWidget" name="page_3">
+       <property name="styleSheet">
+        <string notr="true">QWidget {
+    background-color: rgba(255, 255, 255, 204);
+}</string>
+       </property>
+      </widget>
+      <widget class="QWidget" name="page_4"/>
+      <widget class="QWidget" name="page_5"/>
+      <widget class="QWidget" name="page_6"/>
+      <widget class="QWidget" name="page_7"/>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

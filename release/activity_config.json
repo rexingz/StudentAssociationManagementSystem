@@ -1,0 +1,17 @@
+{
+    "Activity_1": {
+        "Association": "Example Association",
+        "Message": "This is an example association for demonstration purposes.",
+        "Time": "2024-01-01"
+    },
+    "Activity_2": {
+        "Association": "篮球社",
+        "Message": "打篮球",
+        "Time": "2025-1-5"
+    },
+    "Activity_3": {
+        "Association": "篮球社",
+        "Message": "训练",
+        "Time": "2026-5-1"
+    }
+}

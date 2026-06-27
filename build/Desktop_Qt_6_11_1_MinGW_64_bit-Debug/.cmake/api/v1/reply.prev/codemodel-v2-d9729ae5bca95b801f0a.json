@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a0aba7f74a9f23aef22e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StudentAssociationManagementSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentAssociationManagementSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentAssociationManagementSystem-Debug-eeaed72d3c5ffe8f0296.json",
+					"name" : "StudentAssociationManagementSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentAssociationManagementSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentAssociationManagementSystem_autogen-Debug-5c50fca1c4ac2c0e8694.json",
+					"name" : "StudentAssociationManagementSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StudentAssociationManagementSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StudentAssociationManagementSystem_autogen_timestamp_deps-Debug-6df8246db4ae03116e76.json",
+					"name" : "StudentAssociationManagementSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/StudentAssociationManagementSystem/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+		"source" : "D:/StudentAssociationManagementSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

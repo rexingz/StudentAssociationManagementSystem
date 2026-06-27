@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+bce729f6667cf2467cda23e9be468230 CMakeFiles/StudentAssociationManagementSystem_autogen
+6634b019319c7b72bae37d2e7db5eb46 StudentAssociationManagementSystem_autogen/EWIEGA46WW/qrc_resource.cpp
+2cc0e38c4c9e871e32dda8e5abd2caab StudentAssociationManagementSystem_autogen/timestamp
