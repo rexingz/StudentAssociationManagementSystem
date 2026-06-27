@@ -1,6 +1,6 @@
 # 学生社团管理系统
 
-##项目简介
+## 项目简介
 
 本项目是面向高校学生社团开发的桌面端管理系统，旨在系统化解决社团日常运营中的信息管理需求，提供直观、易用的图形化管理界面。
 可用于c++课程设计使用
@@ -16,7 +16,7 @@
 | **设备管理** | 设备新增、删除，记录设备添加时间与原因 |
 | **账单管理** | 查看社团资金流水和设备清单的详细账单 |
 
-##技术栈
+## 技术栈
 
 | 技术/工具 | 版本/说明 |
 |-----------|-----------|
@@ -53,7 +53,7 @@ StudentAssociationManagementSystem/
 └── StudentAssociationManagementSystem_zh_CN.ts  # 中文翻译文件
 ```
 
-##环境配置与运行
+## 环境配置与运行
 
 ###环境准备
 
@@ -91,7 +91,7 @@ cmake --build build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
 ./release/StudentAssociationManagementSystem.exe
 ```
 
-##数据存储
+## 数据存储
 
 系统采用 JSON 文件存储数据，配置文件如下：
 
@@ -101,7 +101,7 @@ cmake --build build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
 | `association_config.json` | 社团信息（名称、成员、资金、设备等） |
 | `activity_config.json` | 社团活动信息（时间、内容、发布社团） |
 
-##使用说明
+## 使用说明
 
 ### 登录系统
 - 默认管理员账号：`admin` / `admin`
