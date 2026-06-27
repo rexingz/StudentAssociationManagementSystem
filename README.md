@@ -1,10 +1,11 @@
 # 学生社团管理系统
 
-## 📋 项目简介
+##项目简介
 
 本项目是面向高校学生社团开发的桌面端管理系统，旨在系统化解决社团日常运营中的信息管理需求，提供直观、易用的图形化管理界面。
+可用于c++课程设计使用
 
-### 核心功能
+###核心功能
 
 | 模块 | 功能描述 |
 |------|----------|
@@ -15,7 +16,7 @@
 | **设备管理** | 设备新增、删除，记录设备添加时间与原因 |
 | **账单管理** | 查看社团资金流水和设备清单的详细账单 |
 
-## 🛠️ 技术栈
+##技术栈
 
 | 技术/工具 | 版本/说明 |
 |-----------|-----------|
@@ -25,7 +26,7 @@
 | 构建工具 | CMake |
 | 开发环境 | Visual Studio Code |
 
-## 📁 项目结构
+##项目结构
 
 ```
 StudentAssociationManagementSystem/
@@ -52,9 +53,9 @@ StudentAssociationManagementSystem/
 └── StudentAssociationManagementSystem_zh_CN.ts  # 中文翻译文件
 ```
 
-## 🚀 环境配置与运行
+##环境配置与运行
 
-### 环境准备
+###环境准备
 
 1. 安装 **Qt 6.11.1**（需包含 MinGW 64-bit 编译套件）
 2. 安装 **CMake 3.20+** 构建工具
@@ -90,7 +91,7 @@ cmake --build build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
 ./release/StudentAssociationManagementSystem.exe
 ```
 
-## 📊 数据存储
+##数据存储
 
 系统采用 JSON 文件存储数据，配置文件如下：
 
@@ -100,7 +101,7 @@ cmake --build build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
 | `association_config.json` | 社团信息（名称、成员、资金、设备等） |
 | `activity_config.json` | 社团活动信息（时间、内容、发布社团） |
 
-## 🎯 使用说明
+##使用说明
 
 ### 登录系统
 - 默认管理员账号：`admin` / `admin`
@@ -119,9 +120,7 @@ cmake --build build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
 - **设备初始值**：每个社团初始设备为空
 - **账单查看**：点击社团卡片的"账单"按钮查看详细记录
 
-## 👨‍💻 开发团队
-
-## 📝 版本更新
+## 版本更新
 
 ### v1.0.0
 - 完成基础登录/登出功能
@@ -135,13 +134,13 @@ cmake --build build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug
 - 添加账单查看功能
 - 优化主页面活动展示
 
-## ⚠️ 注意事项
+## 注意事项
 
 1. 首次运行请确保 `release/` 目录下存在配置文件
 2. 运行时请勿修改或删除配置文件
 3. 建议定期备份 `*_config.json` 文件
 4. 程序运行需要 Qt 相关动态库支持
 
-## 📄 许可证
+## 许可证
 
 本项目仅供学习交流使用，未经允许不得用于商业用途。
